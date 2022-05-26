@@ -1,0 +1,114 @@
+--- 
+title: "Money and Banking, EC370"
+author: "Giorgi Nikolaishvili"
+date: "`r Sys.Date()`"
+site: bookdown::bookdown_site
+output: bookdown::gitbook
+documentclass: book
+bibliography: [book.bib, packages.bib]
+biblio-style: apalike
+link-citations: yes
+github-repo: rstudio/bookdown-demo
+description: "Notes for my course, Money and Banking (EC370), at University of Oregon. Created using bookdown."
+---
+
+# Introduction {-}
+
+<!--chapter:end:index.Rmd-->
+
+# (PART) Foundations and Financial Markets {-}
+
+# A Brief History of Money and Banking
+
+<!--chapter:end:01-brief-history.Rmd-->
+
+# The Financial System
+
+<!--chapter:end:02-financial-system.Rmd-->
+
+# Money and Central Banks
+
+<!--chapter:end:03-money-central-banks.Rmd-->
+
+# Asset Prices and Interest Rates (Part 1)
+
+<!--chapter:end:04-asset-prices-interest-rates.Rmd-->
+
+# Asset Prices and Interest Rates (Part 2)
+
+<!--chapter:end:05-asset-prices-interest-rates-pt2.Rmd-->
+
+# What Determines Interest Rates? (Part 1)
+
+<!--chapter:end:06-interest-rate-determinants.Rmd-->
+
+# What Determines Interest Rates? (Part 2)
+
+<!--chapter:end:07-interest-rate-determinants.Rmd-->
+
+# Securities Markets
+
+<!--chapter:end:08-securities-markets.Rmd-->
+
+# **Midterm 1** 
+
+<!--chapter:end:09-midterm1.Rmd-->
+
+# (PART) Banking {-}
+
+# Asymmetric Information in the Financial System
+
+<!--chapter:end:10-asymmetric-info.Rmd-->
+
+# The Banking Industry
+
+<!--chapter:end:11-banking-industry.Rmd-->
+
+# The Business of Banking
+
+<!--chapter:end:12-banking-business.Rmd-->
+
+# Banking Regulation
+
+<!--chapter:end:13-bank-regulation.Rmd-->
+
+# Bank History
+
+<!--chapter:end:14-bank-history.Rmd-->
+
+# **Midterm 2**
+
+<!--chapter:end:15-midterm2.Rmd-->
+
+# (PART) Money and the Economy {-}
+
+# The Money Supply and Interest Rates
+
+<!--chapter:end:16-money-supply-interest-rates.Rmd-->
+
+# Short-Run Economic Fluctuations (Part 1)
+
+<!--chapter:end:17-short-run-fluctuations.Rmd-->
+
+# Short-Run Economic Fluctuations (Part 2)
+
+<!--chapter:end:18-short-run-fluctuations-pt2.Rmd-->
+
+# Economic Fluctuations, Monetary Policy, and the Financial System
+
+<!--chapter:end:19-fluctuations-policy-financial-system.Rmd-->
+
+# Inflation and Deflation
+
+<!--chapter:end:20-inflation-deflation.Rmd-->
+
+# **Final Exam** {-}
+
+<!--chapter:end:21-final.Rmd-->
+
+# (PART) Conclusion {-}
+
+# Concluding Remarks {-}
+
+<!--chapter:end:22-conclusion.Rmd-->
+
