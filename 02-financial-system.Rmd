@@ -1,1 +1,67 @@
 # The Financial System
+
+Text.
+
+## Financial Markets
+
+Text.
+
+### What are Financial Markets?
+
+Text.
+
+#### Bond Markets
+
+Text.
+
+#### Money Markets
+
+Text.
+
+#### Securities Markets
+
+Text.
+
+#### Equity Markets
+
+Text.
+
+### Functions of Financial Markets
+
+Text.
+
+### Issues with Financial Markets
+
+Text.
+
+#### Adverse Selection
+
+Text.
+
+#### Moral Hazard
+
+Text.
+
+## Banks 
+
+Text.
+
+### What are Banks?
+
+Text.
+
+### Benefits of Banks 
+
+Text.
+
+### Issues with Banks 
+
+Text.
+
+## Financial Markets vs. Banks
+
+Text.
+
+## Economic Growth
+
+Text.
